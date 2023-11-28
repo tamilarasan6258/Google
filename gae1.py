@@ -29,7 +29,7 @@ def hello():
     Returns:
         A string with the words 'Hello World!'.
     """
-    return "Hello World!"
+    return "Hello App Engine!"
 
 
 if __name__ == "__main__":
